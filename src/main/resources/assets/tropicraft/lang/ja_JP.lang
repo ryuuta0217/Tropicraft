@@ -293,8 +293,8 @@ item.tropicraft.riverfish.piranha.cooked.name=Cooked Piranha
 item.tropicraft.riverfish.sardine.cooked.name=Cooked Sardine
 
 # Word localizations
-tropicraft.raw=Raw
-tropicraft.cooked=Cooked
+tropicraft.raw=生
+tropicraft.cooked=調理済み
 
 # Cocktail localizations
 tropicraft.drink.lemonade.name=Lemonade
